@@ -1,16 +1,16 @@
-## Hi there 👋
+# Vince (Qijun) Chen, CFA
 
-<!--
-**chenqijunvc/chenqijunvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [PortfolioFuture](https://portfoliofuture.com/), an investment research platform for better portfolios.
 
-Here are some ideas to get you started:
+Quantitative investor and investment-system builder with experience across portfolio management, ETF strategies, empirical research, and investment technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Research
+
+- [Finding Better Fund Alternatives](https://github.com/PortfolioFuture/finding-better-fund-alternatives)
+- [Investable Return Decomposition and Residual Persistence](https://github.com/PortfolioFuture/investable-return-decomposition)
+
+## Links
+
+[PortfolioFuture](https://portfoliofuture.com/) ·
+[Personal Website](https://chenqijunvc.github.io/) ·
+[ORCID](https://orcid.org/0009-0005-4668-5775)
